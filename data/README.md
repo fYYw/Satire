@@ -2,11 +2,11 @@
 
 Dataset for the paper
 
-**Satirical News Detection and Analysis using Attention Mechanism and Lingusitci Features** 
+**Satirical News Detection and Analysis using Attention Mechanism and Linguisitc Features** 
 
 ## Getting Started
 
-Current, the dataset is hosted at [Mendeley](http://www.mendeley.com). 
+Currently, the dataset is hosted at [Mendeley](http://www.mendeley.com). 
 
 Please download the data from [Here](https://data.mendeley.com/datasets/hx3rzw5dwt/draft?a=377d5571-af17-4e61-bf77-1b77b88316de).
 
