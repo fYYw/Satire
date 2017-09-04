@@ -6,7 +6,9 @@ Dataset for the paper
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Current, the dataset is hosted at [Mendeley](http://www.mendeley.com) 
+Please download the data from 
+* [Download](https://data.mendeley.com/datasets/hx3rzw5dwt/draft?a=377d5571-af17-4e61-bf77-1b77b88316de)
 
 ### Prerequisites
 
