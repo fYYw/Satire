@@ -42,6 +42,8 @@ python 3.4
 
 Please see `arg_parser.py` for detail.
 
+## Question
 
+For more question about the dataset, please contact Fan Yang, fyang11@uh.edu
 
 
