@@ -8,8 +8,7 @@ Dataset for the paper
 
 Current, the dataset is hosted at [Mendeley](http://www.mendeley.com). 
 
-Please download the data from 
-* [Here](https://data.mendeley.com/datasets/hx3rzw5dwt/draft?a=377d5571-af17-4e61-bf77-1b77b88316de).
+Please download the data from [Here](https://data.mendeley.com/datasets/hx3rzw5dwt/draft?a=377d5571-af17-4e61-bf77-1b77b88316de).
 
 ## License
 
