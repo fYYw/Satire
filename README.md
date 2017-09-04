@@ -24,11 +24,11 @@ python 3.4
 
 ### Content
 
-* `char_hierarchical_linguistic_rnn.py` - 4 level char-word-paragraph-document network with paragraph-level and document-level linguistic features.
-* `char_hierarchical_sent.py`
-* `char_hierarchical_doc.py`
-* `char_hierarchical.py`
-* `hierarchical_linguistic_rnn.py`
+* `char_hierarchical_linguistic_rnn.py` - 4 level char-word-paragraph-document network with paragraph-level and document-level                                                     linguistic features.
+* `char_hierarchical_para.py` - 4 level char-word-paragraph-document network with paragraph-level linguistic features
+* `char_hierarchical_doc.py` - 4 level char-word-paragraph-document network with document-level linguistic features
+* `char_hierarchical.py` - 4 level char-word-paragraph-document network
+* `hierarchical_linguistic_rnn.py` - 3 level word-paragraph-document network with linguistic features
 * `hierarchical_rnn.py` - Implementation of [Hierarchical Attention Network](https://www.cs.cmu.edu/~diyiy/docs/naacl16.pdf)
 * `arg_parser.py`
 * `data_utilities.py`
