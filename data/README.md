@@ -1,6 +1,8 @@
-# Project Title
+# Satrical News Detection and Analysis
 
-One Paragraph of project description goes here
+Dataset for the paper
+
+**Satirical News Detection and Analysis using Attention Mechanism and Lingusitci Features** 
 
 ## Getting Started
 
