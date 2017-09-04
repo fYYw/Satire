@@ -22,14 +22,26 @@ Theano 0.9
 Lasagne 0.2
 python 3.4
 
-### Usage
+### Content
 
-* `char_hierarchical_linguistic_rnn.py` - 
+* `char_hierarchical_linguistic_rnn.py` - 4 level char-word-paragraph-document network with paragraph-level and document-level linguistic features.
 * `char_hierarchical_sent.py`
 * `char_hierarchical_doc.py`
 * `char_hierarchical.py`
 * `hierarchical_linguistic_rnn.py`
-* `hierarchical_rnn.py` - [Implementation of Hierarchical Attention Network](https://www.cs.cmu.edu/~diyiy/docs/naacl16.pdf)
+* `hierarchical_rnn.py` - Implementation of [Hierarchical Attention Network](https://www.cs.cmu.edu/~diyiy/docs/naacl16.pdf)
+* `arg_parser.py`
+* `data_utilities.py`
+* `evaluations.py`
+* `minibatch.py`
+* `networks.py`
+* `theano_function.py`
+* `utilities.py`
+
+### Hyper-parameters
+
+Please see `arg_parser.py` for detail.
+
 
 
 
